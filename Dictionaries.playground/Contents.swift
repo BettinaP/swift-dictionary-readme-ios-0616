@@ -14,7 +14,7 @@ var nonexistentDefinition = favoriteWords["strategery"]
 if let definition = definition {
     print("The definition of 'rigmarole' is '\(definition)'")
 } else {
-    print("'rigmarole' isn't a word!")
+    print("'rigmarole' isn't a word!!")
 }
 
 if let definition = nonexistentDefinition {
